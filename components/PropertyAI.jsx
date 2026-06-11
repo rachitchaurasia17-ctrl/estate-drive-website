@@ -11,7 +11,7 @@ const SYSTEM_PROMPT = `You are Property AI, the digital concierge for Estate Dri
 
 Firm facts:
 - Firm: Estate Drive
-- Office: SCO 1, 2nd Floor, Sector 79, Sahibzada Ajit Singh Nagar, Punjab 140308
+- Office: Modern Plaza, SCO 143/B2, Airport Rd, Sector 117, Sahibzada Ajit Singh Nagar
 - Phone: +91 XXXXX XXXXX
 - GMADA empanelled, RERA registered (PB-RERA)
 - Practice: Residential, Commercial, Land/Plots, Investment Advisory, NRI Services, Title & Due Diligence
